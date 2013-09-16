@@ -1,0 +1,6 @@
+after compiling sendraw.c, run it using root priviledges 
+
+gcc -o sendraw -O2 sendraw.c
+
+sudo ./send_eth
+
